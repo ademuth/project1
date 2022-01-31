@@ -12,25 +12,23 @@
       <li><a href="../coolstuff/">Alex's Reviews</a></li>
     </ul>
   </nav>
-    <h1>All about me</h1>
-    <hr>
-        <h2>Interests</h2>
-        <ul>
-            <li>Music</li>
-            <li>Movies</li>
-            <li>Video Games</li>
-            <li>Biking</li>
-            <li>Weight Lifting</li>
-        </ul>
-    <hr>
-        <h2>Favorites</h2>
-          <ul>
-            <li>Movie: 127 Hours</li>
-            <li>Video Game: Fallout New Vegas</li>
-            <li>Artist: Pink Floyd</li>
-            <li>Album: Wish You Were Here</li>
-            <li>Song: Shine On You Crazy Diamond</li>
-            <li>Food: Deep Dish Pizza</li>
-            <li>COlor: Purple</li>
-          </ul>
+  <h1>All about Alex</h1>
+  <h2>Interests</h2>
+  <ul>
+    <li>Music</li>
+    <li>Movies</li>
+    <li>Video Games</li>
+    <li>Biking</li>
+    <li>Weight Lifting</li>
+  </ul>
+  <h2>Favorites</h2>
+    <ul>
+      <li>Movie: 127 Hours</li>
+      <li>Video Game: Fallout New Vegas</li>
+      <li>Artist: Pink Floyd</li>
+      <li>Album: Wish You Were Here</li>
+      <li>Song: Shine On You Crazy Diamond</li>
+      <li>Food: Deep Dish Pizza</li>
+      <li>Color: Purple</li>
+    </ul>
 </body>
