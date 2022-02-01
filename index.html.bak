@@ -9,7 +9,7 @@
   <nav id="navigation">
     <ul>
       <li><a href="resume.html">Alex's Resume</a></li>
-      <li><a href="../coolstuff/">Alex's Reviews</a></li>
+      <li><a href="reviews.html">Alex's Reviews</a></li>
     </ul>
   </nav>
   <h1>All About Alex</h1>
