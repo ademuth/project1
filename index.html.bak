@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8"/>
-    <title>All About Alex</title> 
-  </head>
-</html>
+<head>
+  <meta charset="utf-8"/>
+  <title>All About Alex</title> 
+</head>
 <body>
   <nav id="navigation">
     <ul>
@@ -34,3 +33,4 @@
   <h2>A Brief Biography</h2>
   <p>I was born January 7th, 2002 in Chicago, IL. I have lived in Chicago ever since. I went to Bell School for middle school, Lane Tech for high school, and I am now attending Illinois Institute of Technology for college. I am majoring in Applied Cyber Security and Information Technology. I am also a member of the Delta Tau Delta Fraternity. I joined in the Spring of 2021. I am currently employed as an IT Intern at Smokeball. I have worked there since June of 2021. I really enjoy the people and sense of community at Smokeball. It is shocking how nice everyone is and how calm and relaxed everything feels there. My co-workers with more stressful jobs there may not totally agree, but I really do like working there. I am glad that my co-workers can see past my position and age and really treat me as an equal despite me being just an intern. It feels great to have that kind of respect.</p>
 </body>
+</html>
