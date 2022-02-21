@@ -8,6 +8,7 @@
   <nav id="navigation">
   <ul>
     <li><a href="index.html">All About Alex</a></li>
+	<li><a href="resume.html">Alex's Resume</a></li>
     <li><a href="reviews.html">Alex's Reviews</a></li>
   </ul>
   </nav>
